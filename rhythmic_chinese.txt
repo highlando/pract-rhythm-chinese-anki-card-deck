@@ -1,0 +1,56 @@
+<span style="font-size: 32px; ">一</span>	<span style="">yī, one</span> 
+<span style="font-size: 32px; ">第</span>	<span style="">dì, [prefix for ordinals]</span><br><span style="">第一, first</span>
+<span style="font-size: 32px; ">课</span>	<span style="">kè, lesson</span>
+<span style="font-size: 32px; ">你</span>	<span style="">nǐ, you</span>
+<span style="font-size: 32px; ">好</span>	<span style="">hǎo, good</span>
+<span style="font-size: 32px; ">你好！</span>	<span style="">nǐ hǎo, Hello!</span>
+
+<span style="font-size: 32px; ">二</span>	<span style="">ér, two</span>
+<span style="font-size: 32px; ">吗</span>	<span style="">ma, [question word]</span>
+<span style="font-size: 32px; ">呢</span>	<span style="">ne, [elliptical question word]</span>
+<span style="font-size: 32px; ">这</span>	<span style="">zhè; zhèi, this</span>
+<span style="font-size: 32px; ">那</span>	<span style="">nà; nèi, that</span>
+<span style="font-size: 32px; ">个</span>	<span style="">ge, [measure word]</span>
+<span style="font-size: 32px; ">很</span>	<span style="">hěn, very</span>
+<span style="font-size: 32px; ">也</span>	<span style="">yě, also</span>
+<span style="font-size: 32px; ">都</span>	<span style="">dōu, all</span>
+<span style="font-size: 32px; ">两</span>	<span style="">liǎng, two</span>
+<span style="font-size: 32px; ">这个好吗？</span>	<span style="">Is this one good?</span>
+<span style="font-size: 32px; ">这个很好！</span>	<span style="">This one is very good!</span>
+<span style="font-size: 32px; ">那个呢？</span>	<span style="">How about that one?</span>
+<span style="font-size: 32px; ">也很好，两个都很好！</span>	<span style="">Also very good, both are very good.</span>
+
+<span style="font-size: 32px; ">三</span>	<span style="">sān, three</span>
+<span style="font-size: 32px; ">我</span>	<span style="">wǒ, I</span>
+<span style="font-size: 32px; ">他</span>	<span style="">tā, he</span>
+<span style="font-size: 32px; ">哥</span>	<span style="">gē, elder brother</span>
+<span style="font-size: 32px; ">不</span>	<span style="">bù, not</span>
+<span style="font-size: 32px; ">忙</span>	<span style="">máng, busy</span>
+<span style="font-size: 32px; ">现</span>	<span style="">xiàn, present</span>
+<span style="font-size: 32px; ">在</span>	<span style="">zài, at</span>
+<span style="font-size: 32px; ">你忙吗？</span>	<span style="">Are you busy?</span>
+<span style="font-size: 32px; ">现在我很忙。</span>	<span style="">Now I am very busy.</span>
+<span style="font-size: 32px; ">你哥他忙吗？</span>	<span style="">Is your elder brother (he) busy?</span>
+<span style="font-size: 32px; ">我哥他不忙。</span>	<span style="">My elder brother (he) is not busy?</span>
+
+<span style="font-size: 32px; ">四</span>	<span style="">sì, four</span>
+<span style="font-size: 32px; ">是</span>	<span style="">shì, be</span>
+<span style="font-size: 32px; ">爸</span>	<span style="">bà, dad</span>
+<span style="font-size: 32px; ">妈</span>	<span style="">mā, mom</span>
+<span style="font-size: 32px; ">和</span>	<span style="">hé, and</span>
+<span style="font-size: 32px; ">弟</span>	<span style="">dì, younger brother</span>
+<span style="font-size: 32px; ">姐</span>	<span style="">jiě, elder sister</span>
+<span style="font-size: 32px; ">妹</span>	<span style="">mèi, younger sister</span>
+<span style="font-size: 32px; ">这不是我爸把。</span>	<span style="">This is not my dad.</span>
+<span style="font-size: 32px; ">这是我弟弟。</span>	<span style="">This is my younger brother.</span>
+
+<span style="font-size: 32px; ">五</span>	<span style="">wǔ, five</span>
+<span style="font-size: 32px; ">谁</span>	<span style="">shuì; shéi, who</span>
+<span style="font-size: 32px; ">的</span>	<span style="">de, [auxiliary word]</span>
+<span style="font-size: 32px; ">车</span>	<span style="">chē, car</span>
+<span style="font-size: 32px; ">书</span>	<span style="">shù, book</span>
+<span style="font-size: 32px; ">这是谁的车？</span>	<span style="">Whose car is this?</span>
+<span style="font-size: 32px; ">这不是你的书。</span>	<span style="">This is not your book.</span>
+
+
+<span style="font-size: 32px; ">#CHINESECHAR</span>	<span style="">#PINYINTRANSL</span><br><span style="">#EXAMPLES</span><br><span style="">#examples</span>
