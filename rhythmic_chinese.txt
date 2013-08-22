@@ -53,4 +53,19 @@
 <span style="font-size: 32px; ">这不是你的书。</span>	<span style="">This is not your book.</span>
 
 
+<span style="font-size: 32px; ">六</span>	<span style="">liù, six</span>
+<span style="font-size: 32px; ">哪</span>	<span style="">nǎ, which</span>
+<span style="font-size: 32px; ">国</span>	<span style="">guó, country</span>
+<span style="font-size: 32px; ">人</span>	<span style="">rén, person</span>
+<span style="font-size: 32px; ">们</span>	<span style="">men, plural</span>
+<span style="font-size: 32px; ">老</span>	<span style="">lǎo, old</span>
+<span style="font-size: 32px; ">师</span>	<span style="">shī, master</span>
+<span style="font-size: 32px; ">中</span>	<span style="">zhōng, middle</span>
+<span style="font-size: 32px; ">她</span>	<span style="">tā, she</span>
+<span style="font-size: 32px; ">美</span>	<span style="">měi, beautiful</span>
+<span style="font-size: 32px; ">他(她）是哪国人？</span>	<span style="">What is his (her) nationality?</span>
+<span style="font-size: 32px; ">他(她）是哪国人？</span>	<span style="">What is his (her) nationality?</span>
+<span style="font-size: 32px; ">我是美国人。</span>	<span style="">I am an American.</span>
+
+<span style="font-size: 32px; "><++></span>	<span style=""><++></span>
 <span style="font-size: 32px; ">#CHINESECHAR</span>	<span style="">#PINYINTRANSL</span><br><span style="">#EXAMPLES</span><br><span style="">#examples</span>
