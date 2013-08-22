@@ -31,7 +31,7 @@
 <span style="font-size: 32px; ">你忙吗？</span>	<span style="">Are you busy?</span>
 <span style="font-size: 32px; ">现在我很忙。</span>	<span style="">Now I am very busy.</span>
 <span style="font-size: 32px; ">你哥他忙吗？</span>	<span style="">Is your elder brother (he) busy?</span>
-<span style="font-size: 32px; ">我哥他不忙。</span>	<span style="">My elder brother (he) is not busy?</span>
+<span style="font-size: 32px; ">我哥他不忙。</span>	<span style="">My elder brother (he) is not busy.</span>
 
 <span style="font-size: 32px; ">四</span>	<span style="">sì, four</span>
 <span style="font-size: 32px; ">是</span>	<span style="">shì, be</span>
