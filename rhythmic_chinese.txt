@@ -64,7 +64,6 @@
 <span style="font-size: 32px; ">她</span>	<span style="">tā, she</span>
 <span style="font-size: 32px; ">美</span>	<span style="">měi, beautiful</span>
 <span style="font-size: 32px; ">他(她）是哪国人？</span>	<span style="">What is his (her) nationality?</span>
-<span style="font-size: 32px; ">他(她）是哪国人？</span>	<span style="">What is his (her) nationality?</span>
 <span style="font-size: 32px; ">我是美国人。</span>	<span style="">I am an American.</span>
 
 <span style="font-size: 32px; "><++></span>	<span style=""><++></span>
