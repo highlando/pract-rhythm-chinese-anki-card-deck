@@ -41,7 +41,7 @@
 <span style="font-size: 32px; ">弟</span>	<span style="">dì, younger brother</span>
 <span style="font-size: 32px; ">姐</span>	<span style="">jiě, elder sister</span>
 <span style="font-size: 32px; ">妹</span>	<span style="">mèi, younger sister</span>
-<span style="font-size: 32px; ">这不是我爸把。</span>	<span style="">This is not my dad.</span>
+<span style="font-size: 32px; ">这不是我爸爸。</span>	<span style="">This is not my dad.</span>
 <span style="font-size: 32px; ">这是我弟弟。</span>	<span style="">This is my younger brother.</span>
 
 <span style="font-size: 32px; ">五</span>	<span style="">wǔ, five</span>
@@ -65,6 +65,38 @@
 <span style="font-size: 32px; ">美</span>	<span style="">měi, beautiful</span>
 <span style="font-size: 32px; ">他(她）是哪国人？</span>	<span style="">What is his (her) nationality?</span>
 <span style="font-size: 32px; ">我是美国人。</span>	<span style="">I am an American.</span>
+
+<span style="font-size: 32px; ">七</span>	<span style="">qī, seven</span>
+<span style="font-size: 32px; ">什</span>	<span style="">shèn, what</span>
+<span style="font-size: 32px; ">么</span>	<span style="">me, [suffix]</span>
+<span style="font-size: 32px; ">饺</span>	<span style="">jiǎo, dumpling</span>
+<span style="font-size: 32px; ">子</span>	<span style="">zi, [suffix]</span>
+<span style="font-size: 32px; ">猪</span>	<span style="">zhū, pig</span>
+<span style="font-size: 32px; ">肉</span>	<span style="">ròu, meat</span>
+<span style="font-size: 32px; ">素</span>	<span style="">sù, plain</span>
+<span style="font-size: 32px; ">菜</span>	<span style="">cài, vegetable; dish</span>
+<span style="font-size: 32px; ">这是什么饺子？</span>	<span style="">What dumpling is this?</span>
+<span style="font-size: 32px; ">这是猪肉饺子。</span>	<span style="">This is a pork dumpling.</span>
+
+<span style="font-size: 32px; ">八</span>	<span style="">bā, eight</span>
+<span style="font-size: 32px; ">啊</span>	<span style="">a, [auxiliary word]; [interjection]</span>
+<span style="font-size: 32px; ">啊</span>	<span style="">a, [auxiliary word]; [interjection]</span>
+<span style="font-size: 32px; ">请</span>	<span style="">qǐng, please</span>
+<span style="font-size: 32px; ">进</span>	<span style="">jìn, enter</span>
+<span style="font-size: 32px; ">谢</span>	<span style="">xiè, thank</span>
+<span style="font-size: 32px; ">喝</span>	<span style="">hē, drink</span>
+<span style="font-size: 32px; ">茶</span>	<span style="">chá, tea</span>
+<span style="font-size: 32px; ">客</span>	<span style="">kè¸ guest</span>
+<span style="font-size: 32px; ">气</span>	<span style="">qì, air</span>
+<span style="font-size: 32px; ">要</span>	<span style="">yào, need; demand</span>
+<span style="font-size: 32px; ">吃</span>	<span style="">chī, eat</span>
+<span style="font-size: 32px; ">糖</span>	<span style="">táng, candy</span>
+<span style="font-size: 32px; ">别</span>	<span style="">bié, don't</span>
+<span style="font-size: 32px; ">请喝茶</span>	<span style="">Have some tea, please.</span>
+<span style="font-size: 32px; ">吃糖吗？</span>	<span style="">Have a candy?</span>
+<span style="font-size: 32px; ">不吃。</span>	<span style="">No, thanks. (don't eat)</span>
+<span style="font-size: 32px; ">别客气。</span>	<span style="">Don't stand on ceremony.</span>
+
 
 <span style="font-size: 32px; "><++></span>	<span style=""><++></span>
 <span style="font-size: 32px; ">#CHINESECHAR</span>	<span style="">#PINYINTRANSL</span><br><span style="">#EXAMPLES</span><br><span style="">#examples</span>
