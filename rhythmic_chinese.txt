@@ -97,6 +97,24 @@
 <span style="font-size: 32px; ">不吃。</span>	<span style="">No, thanks. (don't eat)</span>
 <span style="font-size: 32px; ">别客气。</span>	<span style="">Don't stand on ceremony.</span>
 
+<span style="font-size: 32px; ">九</span>	<span style="">jiǔ, nine</span>
+<span style="font-size: 32px; ">您</span>	<span style="">nìn, [respectful form of you]</span>
+<span style="font-size: 32px; ">贵</span>	<span style="">guì, noble; expensive</span>
+<span style="font-size: 32px; ">姓</span>	<span style="">xìng, surname</span>
+<span style="font-size: 32px; ">免</span>	<span style="">miǎn, exempt; remove</span>
+<span style="font-size: 32px; ">李</span>	<span style="">lǐ, [a surname]; plum</span>
+<span style="font-size: 32px; ">问</span>	<span style="">wèn, ask</span>
+<span style="font-size: 32px; ">都</span>	<span style="">dōu, all</span>
+<span style="font-size: 32px; ">名</span>	<span style="">míng, name</span>
+<span style="font-size: 32px; ">字</span>	<span style="">zì, character</span>
+<span style="font-size: 32px; ">叫</span>	<span style="">jiào, call</span>
+<span style="font-size: 32px; ">王</span>	<span style="">wáng, [a surname]; king</span>
+<span style="font-size: 32px; ">您贵姓？</span>	<span style="">What is your noble surname?</span>
+<span style="font-size: 32px; ">免贵，姓李。</span>	<span style="">Without being noble, I am surnamed Li.</span>
+<span style="font-size: 32px; ">请问，您贵姓？</span>	<span style="">May I ask what your noble surname is?</span>
+<span style="font-size: 32px; ">你叫什么名字？</span>	<span style="">What is your name?</span>
+<span style="font-size: 32px; ">我叫王五。</span>	<span style="">I am called Wang Wu.</span>
+
 
 <span style="font-size: 32px; "><++></span>	<span style=""><++></span>
 <span style="font-size: 32px; ">#CHINESECHAR</span>	<span style="">#PINYINTRANSL</span><br><span style="">#EXAMPLES</span><br><span style="">#examples</span>
