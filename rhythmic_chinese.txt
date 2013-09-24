@@ -45,7 +45,7 @@
 <span style="font-size: 32px; ">这是我弟弟。</span>	<span style="">This is my younger brother.</span>
 
 <span style="font-size: 32px; ">五</span>	<span style="">wǔ, five</span>
-<span style="font-size: 32px; ">谁</span>	<span style="">shuì; shéi, who</span>
+<span style="font-size: 32px; ">谁</span>	<span style="">shuí; shéi, who</span>
 <span style="font-size: 32px; ">的</span>	<span style="">de, [auxiliary word]</span>
 <span style="font-size: 32px; ">车</span>	<span style="">chē, car</span>
 <span style="font-size: 32px; ">书</span>	<span style="">shù, book</span>
@@ -57,7 +57,7 @@
 <span style="font-size: 32px; ">哪</span>	<span style="">nǎ, which</span>
 <span style="font-size: 32px; ">国</span>	<span style="">guó, country</span>
 <span style="font-size: 32px; ">人</span>	<span style="">rén, person</span>
-<span style="font-size: 32px; ">们</span>	<span style="">men, plural</span>
+<span style="font-size: 32px; ">们</span>	<span style="">men, [plural]</span>
 <span style="font-size: 32px; ">老</span>	<span style="">lǎo, old</span>
 <span style="font-size: 32px; ">师</span>	<span style="">shī, master</span>
 <span style="font-size: 32px; ">中</span>	<span style="">zhōng, middle</span>
@@ -86,7 +86,7 @@
 <span style="font-size: 32px; ">谢</span>	<span style="">xiè, thank</span>
 <span style="font-size: 32px; ">喝</span>	<span style="">hē, drink</span>
 <span style="font-size: 32px; ">茶</span>	<span style="">chá, tea</span>
-<span style="font-size: 32px; ">客</span>	<span style="">kè¸ guest</span>
+<span style="font-size: 32px; ">客</span>	<span style="">kè, guest</span>
 <span style="font-size: 32px; ">气</span>	<span style="">qì, air</span>
 <span style="font-size: 32px; ">要</span>	<span style="">yào, need; demand</span>
 <span style="font-size: 32px; ">吃</span>	<span style="">chī, eat</span>
@@ -115,6 +115,64 @@
 <span style="font-size: 32px; ">你叫什么名字？</span>	<span style="">What is your name?</span>
 <span style="font-size: 32px; ">我叫王五。</span>	<span style="">I am called Wang Wu.</span>
 
+<span style="font-size: 32px; ">十</span>	<span style="">shí, ten</span>
+<span style="font-size: 32px; ">住</span>	<span style="">zhù, live</span>
+<span style="font-size: 32px; ">儿</span>	<span style="">ér, [suffix]</span>
+<span style="font-size: 32px; ">宿</span>	<span style="">sù, lodge</span>
+<span style="font-size: 32px; ">舍</span>	<span style=""><shè, hut</span>
+<span style="font-size: 32px; ">多</span>	<span style="">duō, much</span>
+<span style="font-size: 32px; ">少</span>	<span style="">shǎo, little</span>
+<span style="font-size: 32px; ">号</span>	<span style="">hào, number</span>
+<span style="font-size: 32px; ">你们住哪儿？</span>	<span style="">Where do you live?</span>
+<span style="font-size: 32px; ">我们住宿舍。</span>	<span style="">We live in the dorm.</span>
+<span style="font-size: 32px; ">宿舍在哪儿？</span>	<span style="">Where is the dorm?</span>
+<span style="font-size: 32px; ">宿舍在那儿。</span>	<span style="">The dorm is over there.</span>
+<span style="font-size: 32px; ">你住多少号？</span>	<span style="">What number do you live in?</span>
+<span style="font-size: 32px; ">我住十一号。</span>	<span style="">I live in number eleven.</span>
+
+<span style="font-size: 32px; ">用</span>	<span style="">yòng, use</span>
+<span style="font-size: 32px; ">下</span>	<span style="">xià, [action measure word]; down; below</span>
+<span style="font-size: 32px; ">行</span>	<span style="">xíng, OK</span>
+<span style="font-size: 32px; ">雨</span>	<span style="">yǔ, rain</span>
+<span style="font-size: 32px; ">伞</span>	<span style="">sǎn, umbrella</span>
+<span style="font-size: 32px; ">吧</span>	<span style="">ba, [auxiliary word]</span>
+<span style="font-size: 32px; ">还</span>	<span style="">huán, return</span>
+<span style="font-size: 32px; ">非</span>	<span style="">fēi, un-</span>
+<span style="font-size: 32px; ">常</span>	<span style="">cháng, common; often</span>
+<span style="font-size: 32px; ">感</span>	<span style="">gǎn, affect</span>
+<span style="font-size: 32px; ">真</span>	<span style="">zhēn, really</span>
+<span style="font-size: 32px; ">现在你用吗？</span>	<span style="">Do you use it now?</span>
+<span style="font-size: 32px; ">我用下儿，行吗？</span>	<span style="">I will use it for a while, OK?</span>
+<span style="font-size: 32px; ">非常感谢你!</span>	<span style="">Thank you very much!</span>
+<span style="font-size: 32px; ">真的不用谢！</span>	<span style="">You are really very welcome!</span>
+
+<span style="font-size: 32px; ">来</span>	<span style="">lái, come</span>
+<span style="font-size: 32px; ">介</span>	<span style="">jiè, interpose</span>
+<span style="font-size: 32px; ">绍</span>	<span style="">shào, continue</span>
+<span style="font-size: 32px; ">认</span>	<span style="">rèn, recognize</span>
+<span style="font-size: 32px; ">识</span>	<span style="">shí, know</span>
+<span style="font-size: 32px; ">同</span>	<span style="">tóng, same</span>
+<span style="font-size: 32px; ">朋</span>	<span style="">péng, pal</span>
+<span style="font-size: 32px; ">学</span>	<span style="">xué, learn</span>
+<span style="font-size: 32px; ">友</span>	<span style="">yǒu, friend</span>
+<span style="font-size: 32px; ">你们认识吗？</span>	<span style="">Do you know each other.</span>
+<span style="font-size: 32px; ">我来介绍一下儿。</span>	<span style="">Let me introduce you to each other a little bit.</span>
+<span style="font-size: 32px; ">这是我同学。</span>	<span style="">This is my classmate.</span>
+<span style="font-size: 32px; ">这是我朋友。</span>	<span style="">This is my friend.</span>
+
+<span style="font-size: 32px; ">买</span>	<span style="">mǎi, buy</span>
+<span style="font-size: 32px; ">说</span>	<span style="">shuō, speak</span>
+<span style="font-size: 32px; ">英</span>	<span style="">yīng, flower; Britain</span>
+<span style="font-size: 32px; ">语</span>	<span style="">yǔ, language</span>
+<span style="font-size: 32px; ">汉</span>	<span style="">hàn, Han ethnic group</span>
+<span style="font-size: 32px; ">去</span>	<span style="">qù, go</span>
+<span style="font-size: 32px; ">店</span>	<span style="">diàn, store</span>
+<span style="font-size: 32px; ">词</span>	<span style="">cí, word</span>
+<span style="font-size: 32px; ">典</span>	<span style="">diǎn, classic</span>
+<span style="font-size: 32px; ">他说不说英语？说。</span>	<span style="">Does he speak english or not? He does!</span>
+<span style="font-size: 32px; ">她学不学汉语？xu哦。</span>	<span style="">Does she learn chinese or not? She does!</span>
+<span style="font-size: 32px; ">他去不去书店？去。</span>	<span style="">Does he go to a book store or not? He does.</span>
+<span style="font-size: 32px; ">他买不买词典？不买。</span>	<span style="">Does he buy a book or not? He does not!</span>
 
 <span style="font-size: 32px; "><++></span>	<span style=""><++></span>
 <span style="font-size: 32px; ">#CHINESECHAR</span>	<span style="">#PINYINTRANSL</span><br><span style="">#EXAMPLES</span><br><span style="">#examples</span>
