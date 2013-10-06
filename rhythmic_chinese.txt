@@ -57,7 +57,7 @@
 <span style="font-size: 32px; ">哪</span>	<span style="">nǎ, which</span>
 <span style="font-size: 32px; ">国</span>	<span style="">guó, country</span>
 <span style="font-size: 32px; ">人</span>	<span style="">rén, person</span>
-<span style="font-size: 32px; ">们</span>	<span style="">men, [plural]</span>
+<span style="font-size: 32px; ">们</span>	<span style="">mèn, [plural]</span>
 <span style="font-size: 32px; ">老</span>	<span style="">lǎo, old</span>
 <span style="font-size: 32px; ">师</span>	<span style="">shī, master</span>
 <span style="font-size: 32px; ">中</span>	<span style="">zhōng, middle</span>
@@ -92,7 +92,7 @@
 <span style="font-size: 32px; ">吃</span>	<span style="">chī, eat</span>
 <span style="font-size: 32px; ">糖</span>	<span style="">táng, candy</span>
 <span style="font-size: 32px; ">别</span>	<span style="">bié, don't</span>
-<span style="font-size: 32px; ">请喝茶</span>	<span style="">Have some tea, please.</span>
+<span style="font-size: 32px; ">请喝茶。</span>	<span style="">Have some tea, please.</span>
 <span style="font-size: 32px; ">吃糖吗？</span>	<span style="">Have a candy?</span>
 <span style="font-size: 32px; ">不吃。</span>	<span style="">No, thanks. (don't eat)</span>
 <span style="font-size: 32px; ">别客气。</span>	<span style="">Don't stand on ceremony.</span>
@@ -119,7 +119,7 @@
 <span style="font-size: 32px; ">住</span>	<span style="">zhù, live</span>
 <span style="font-size: 32px; ">儿</span>	<span style="">ér, [suffix]</span>
 <span style="font-size: 32px; ">宿</span>	<span style="">sù, lodge</span>
-<span style="font-size: 32px; ">舍</span>	<span style=""><shè, hut</span>
+<span style="font-size: 32px; ">舍</span>	<span style="">shè, hut</span>
 <span style="font-size: 32px; ">多</span>	<span style="">duō, much</span>
 <span style="font-size: 32px; ">少</span>	<span style="">shǎo, little</span>
 <span style="font-size: 32px; ">号</span>	<span style="">hào, number</span>
@@ -142,7 +142,7 @@
 <span style="font-size: 32px; ">感</span>	<span style="">gǎn, affect</span>
 <span style="font-size: 32px; ">真</span>	<span style="">zhēn, really</span>
 <span style="font-size: 32px; ">现在你用吗？</span>	<span style="">Do you use it now?</span>
-<span style="font-size: 32px; ">我用下儿，行吗？</span>	<span style="">I will use it for a while, OK?</span>
+<span style="font-size: 32px; ">我用一下儿，行吗？</span>	<span style="">I will use it for a while, OK?</span>
 <span style="font-size: 32px; ">非常感谢你!</span>	<span style="">Thank you very much!</span>
 <span style="font-size: 32px; ">真的不用谢！</span>	<span style="">You are really very welcome!</span>
 
@@ -155,7 +155,7 @@
 <span style="font-size: 32px; ">朋</span>	<span style="">péng, pal</span>
 <span style="font-size: 32px; ">学</span>	<span style="">xué, learn</span>
 <span style="font-size: 32px; ">友</span>	<span style="">yǒu, friend</span>
-<span style="font-size: 32px; ">你们认识吗？</span>	<span style="">Do you know each other.</span>
+<span style="font-size: 32px; ">你们认识吗？</span>	<span style="">Do you know each other?</span>
 <span style="font-size: 32px; ">我来介绍一下儿。</span>	<span style="">Let me introduce you to each other a little bit.</span>
 <span style="font-size: 32px; ">这是我同学。</span>	<span style="">This is my classmate.</span>
 <span style="font-size: 32px; ">这是我朋友。</span>	<span style="">This is my friend.</span>
@@ -170,7 +170,7 @@
 <span style="font-size: 32px; ">词</span>	<span style="">cí, word</span>
 <span style="font-size: 32px; ">典</span>	<span style="">diǎn, classic</span>
 <span style="font-size: 32px; ">他说不说英语？说。</span>	<span style="">Does he speak english or not? He does!</span>
-<span style="font-size: 32px; ">她学不学汉语？xu哦。</span>	<span style="">Does she learn chinese or not? She does!</span>
+<span style="font-size: 32px; ">她学不学汉语？学。</span>	<span style="">Does she learn chinese or not? She does!</span>
 <span style="font-size: 32px; ">他去不去书店？去。</span>	<span style="">Does he go to a book store or not? He does.</span>
 <span style="font-size: 32px; ">他买不买词典？不买。</span>	<span style="">Does he buy a book or not? He does not!</span>
 
