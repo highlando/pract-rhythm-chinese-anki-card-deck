@@ -174,5 +174,28 @@
 <span style="font-size: 32px; ">他去不去书店？去。</span>	<span style="">Does he go to a book store or not? He does.</span>
 <span style="font-size: 32px; ">他买不买词典？不买。</span>	<span style="">Does he buy a book or not? He does not!</span>
 
+<span style="font-size: 32px; ">zuo</span>	<span style=zuò, do</span>
+<span style="font-size: 32px; ">工</span>	<span style="">gōng, work</span>
+<span style="font-size: 32px; ">作</span>	<span style="">zuò, labor; compose</span>
+<span style="font-size: 32px; ">有</span>	<span style="">yǒu, have</span>
+<span style="font-size: 32px; ">没</span>	<span style="">méi, not</span>
+<span style="font-size: 32px; ">职</span>	<span style="">zhí, duty</span>
+<span style="font-size: 32px; ">员</span>	<span style="">yuán, member</span>
+<span style="font-size: 32px; ">银</span>	<span style="">yín, silver</span>
+<span style="font-size: 32px; ">写</span>	<span style="">xiě, write</span>
+<span style="font-size: 32px; ">信</span>	<span style="">xìn, letter</span>
+<span style="font-size: 32px; ">给</span>	<span style="">gěi, to</span>
+<span style="font-size: 32px; ">打</span>	<span style="">dǎ, make (a phone call); hit</span>
+<span style="font-size: 32px; ">电</span>	<span style="">diàn, electric</span>
+<span style="font-size: 32px; ">话</span>	<span style="">huà, words</span>
+<span style="font-size: 32px; ">你有没有姐姐？</span>	<span style="">Do you have an elder sister or not?</span>
+<span style="font-size: 32px; ">我有一个</span>	<span style="">I have on elder sister.</span>
+<span style="font-size: 32px; ">她做什么工作？</span>	<span style="">What work does she do?</span>
+<span style="font-size: 32px; ">她是职员，她在银行工作。</span>	<span style="">She is a clerk, she works at a bank.</span>
+<span style="font-size: 32px; ">你常给她写信吗？</span>	<span style="">Do you often write letters to her?</span>
+<span style="font-size: 32px; ">不常给她写信。</span>	<span style="">I do not often write letters to her.</span>
+<span style="font-size: 32px; ">你常给她打d店乎？</span>	<span style="">Do you often make phone calls to her?</span>
+<span style="font-size: 32px; ">W哦很长给她打电话。</span>	<span style="">I often make phone calls to her.</span>
+
 <span style="font-size: 32px; "><++></span>	<span style=""><++></span>
 <span style="font-size: 32px; ">#CHINESECHAR</span>	<span style="">#PINYINTRANSL</span><br><span style="">#EXAMPLES</span><br><span style="">#examples</span>
