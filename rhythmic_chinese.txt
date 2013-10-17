@@ -174,7 +174,7 @@
 <span style="font-size: 32px; ">他去不去书店？去。</span>	<span style="">Does he go to a book store or not? He does.</span>
 <span style="font-size: 32px; ">他买不买词典？不买。</span>	<span style="">Does he buy a book or not? He does not!</span>
 
-<span style="font-size: 32px; ">zuo</span>	<span style=zuò, do</span>
+<span style="font-size: 32px; ">做</span>	<span style=zuò, do</span>
 <span style="font-size: 32px; ">工</span>	<span style="">gōng, work</span>
 <span style="font-size: 32px; ">作</span>	<span style="">zuò, labor; compose</span>
 <span style="font-size: 32px; ">有</span>	<span style="">yǒu, have</span>
@@ -182,6 +182,7 @@
 <span style="font-size: 32px; ">职</span>	<span style="">zhí, duty</span>
 <span style="font-size: 32px; ">员</span>	<span style="">yuán, member</span>
 <span style="font-size: 32px; ">银</span>	<span style="">yín, silver</span>
+<span style="font-size: 32px; ">行</span>	<span style="">háng, trade <br> xíng, please</span>
 <span style="font-size: 32px; ">写</span>	<span style="">xiě, write</span>
 <span style="font-size: 32px; ">信</span>	<span style="">xìn, letter</span>
 <span style="font-size: 32px; ">给</span>	<span style="">gěi, to</span>
@@ -194,8 +195,33 @@
 <span style="font-size: 32px; ">她是职员，她在银行工作。</span>	<span style="">She is a clerk, she works at a bank.</span>
 <span style="font-size: 32px; ">你常给她写信吗？</span>	<span style="">Do you often write letters to her?</span>
 <span style="font-size: 32px; ">不常给她写信。</span>	<span style="">I do not often write letters to her.</span>
-<span style="font-size: 32px; ">你常给她打d店乎？</span>	<span style="">Do you often make phone calls to her?</span>
-<span style="font-size: 32px; ">W哦很长给她打电话。</span>	<span style="">I often make phone calls to her.</span>
+<span style="font-size: 32px; ">你常给她打电话吗？</span>	<span style="">Do you often make phone calls to her?</span>
+<span style="font-size: 32px; ">我常给她打电话。</span>	<span style="">I often make phone calls to her.</span>
+
+<span style="font-size: 32px; ">钱</span>	<span style="">qián, money</span>
+<span style="font-size: 32px; ">快</span>	<span style="">kuài, buck (for money)</span>
+<span style="font-size: 32px; ">本</span>	<span style="">běn, [measure word for books]</span>
+<span style="font-size: 32px; ">几</span>	<span style="">jǐ, how many</span>
+<span style="font-size: 32px; ">这书多少钱？</span>	<span style="">How much is this book?</span>
+<span style="font-size: 32px; ">一本二十快钱。</span>	<span style="">Twenty bucks a copy.</span>
+<span style="font-size: 32px; ">你要买几本？</span>	<span style="">How many copies do you want to buy?</span>
+<span style="font-size: 32px; ">我要买两本。</span>	<span style="">I want to buy two copies.</span>
+
+<span style="font-size: 32px; ">蓝</span>	<span style="">lán, blue</span>
+<span style="font-size: 32px; ">衣</span>	<span style="">yī, garment</span>
+<span style="font-size: 32px; ">服</span>	<span style="">fú, attire</span>
+<span style="font-size: 32px; ">件</span>	<span style="">jiàn, [measure word for clothes]</span>
+<span style="font-size: 32px; ">绿</span>	<span style="">l`ü, green</span>
+<span style="font-size: 32px; ">黑</span>	<span style="">hēi, black</span>
+<span style="font-size: 32px; ">白</span>	<span style="">bài, white</span>
+<span style="font-size: 32px; ">对</span>	<span style="">duì, correct</span>
+<span style="font-size: 32px; ">起</span>	<span style="">qǐ, up; rise;</span>
+<span style="font-size: 32px; ">关</span>	<span style="">guān, concern; shut</span>
+<span style="font-size: 32px; ">系</span>	<span style="">xì, tighten</span>
+<span style="font-size: 32px; ">你要买什么？</span>	<span style="">What do you want to buy?</span>
+<span style="font-size: 32px; ">我要买衣服。</span>	<span style="">I want to buy clothes.</span>
+<span style="font-size: 32px; ">你要买哪件？</span>	<span style="">Which piece do you want to buy?</span>
+<span style="font-size: 32px; ">我要买蓝的。</span>	<span style="">I want to buy a blue one.</span>
 
 <span style="font-size: 32px; "><++></span>	<span style=""><++></span>
 <span style="font-size: 32px; ">#CHINESECHAR</span>	<span style="">#PINYINTRANSL</span><br><span style="">#EXAMPLES</span><br><span style="">#examples</span>
