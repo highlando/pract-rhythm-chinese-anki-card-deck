@@ -182,7 +182,7 @@
 <span style="font-size: 32px; ">职</span>	<span style="">zhí, duty</span>
 <span style="font-size: 32px; ">员</span>	<span style="">yuán, member</span>
 <span style="font-size: 32px; ">银</span>	<span style="">yín, silver</span>
-<span style="font-size: 32px; ">行</span>	<span style="">háng, trade <br> xíng, please</span>
+<span style="font-size: 32px; ">行<br>行</span>	<span style="">háng, trade <br> xíng, please</span>
 <span style="font-size: 32px; ">写</span>	<span style="">xiě, write</span>
 <span style="font-size: 32px; ">信</span>	<span style="">xìn, letter</span>
 <span style="font-size: 32px; ">给</span>	<span style="">gěi, to</span>
@@ -190,7 +190,7 @@
 <span style="font-size: 32px; ">电</span>	<span style="">diàn, electric</span>
 <span style="font-size: 32px; ">话</span>	<span style="">huà, words</span>
 <span style="font-size: 32px; ">你有没有姐姐？</span>	<span style="">Do you have an elder sister or not?</span>
-<span style="font-size: 32px; ">我有一个</span>	<span style="">I have on elder sister.</span>
+<span style="font-size: 32px; ">我有一个。</span>	<span style="">I have one elder sister.</span>
 <span style="font-size: 32px; ">她做什么工作？</span>	<span style="">What work does she do?</span>
 <span style="font-size: 32px; ">她是职员，她在银行工作。</span>	<span style="">She is a clerk, she works at a bank.</span>
 <span style="font-size: 32px; ">你常给她写信吗？</span>	<span style="">Do you often write letters to her?</span>
@@ -222,6 +222,18 @@
 <span style="font-size: 32px; ">我要买衣服。</span>	<span style="">I want to buy clothes.</span>
 <span style="font-size: 32px; ">你要买哪件？</span>	<span style="">Which piece do you want to buy?</span>
 <span style="font-size: 32px; ">我要买蓝的。</span>	<span style="">I want to buy a blue one.</span>
+
+<span style="font-size: 32px; ">点</span>	<span style="">diǎn, o'clock; dot</span>
+<span style="font-size: 32px; ">零</span>	<span style="">líng, zero</span>
+<span style="font-size: 32px; ">刻</span>	<span style="">kè, quarter (of an hour); engrave</span>
+<span style="font-size: 32px; ">半</span>	<span style="">bàn, half</span>
+<span style="font-size: 32px; ">差</span>	<span style="">chà, short of</span>
+<span style="font-size: 32px; ">分</span>	<span style="">fēn, minute; divide; cent</span>
+<span style="font-size: 32px; ">现在几点？</span>	<span style="">What time is it now?</span>
+<span style="font-size: 32px; ">现在两点零二。</span>	<span style="">It is two past two now.</span>
+<span style="font-size: 32px; ">现在两点一刻。现在两点半。</span>	<span style="">It is a quarter/half past two now.</span>
+<span style="font-size: 32px; ">三点差五分。</span>	<span style="">It is five to three.</span>
+
 
 <span style="font-size: 32px; "><++></span>	<span style=""><++></span>
 <span style="font-size: 32px; ">#CHINESECHAR</span>	<span style="">#PINYINTRANSL</span><br><span style="">#EXAMPLES</span><br><span style="">#examples</span>
