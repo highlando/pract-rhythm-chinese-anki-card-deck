@@ -190,7 +190,7 @@
 <span style="font-size: 32px; ">电</span>	<span style="">diàn, electric</span>
 <span style="font-size: 32px; ">话</span>	<span style="">huà, words</span>
 <span style="font-size: 32px; ">你有没有姐姐？</span>	<span style="">Do you have an elder sister or not?</span>
-<span style="font-size: 32px; ">我有一个。</span>	<span style="">I have one elder sister.</span>
+<span style="font-size: 32px; ">我有一个姐姐。</span>	<span style="">I have one elder sister.</span>
 <span style="font-size: 32px; ">她做什么工作？</span>	<span style="">What work does she do?</span>
 <span style="font-size: 32px; ">她是职员，她在银行工作。</span>	<span style="">She is a clerk, she works at a bank.</span>
 <span style="font-size: 32px; ">你常给她写信吗？</span>	<span style="">Do you often write letters to her?</span>
@@ -234,6 +234,44 @@
 <span style="font-size: 32px; ">现在两点一刻。现在两点半。</span>	<span style="">It is a quarter/half past two now.</span>
 <span style="font-size: 32px; ">三点差五分。</span>	<span style="">It is five to three.</span>
 
+<span style="font-size: 32px; ">看</span>	<span style="">kàn, look</span>
+<span style="font-size: 32px; ">空</span>	<span style="">kòng, leisure; empty</span>
+<span style="font-size: 32px; ">明</span>	<span style="">míng, bright</span>
+<span style="font-size: 32px; ">天</span>	<span style="">tiān, day; sky</span>
+<span style="font-size: 32px; ">晚</span>	<span style="">wǎn, evening; late</span>
+<span style="font-size: 32px; ">上</span>	<span style="">shàng, up</span>
+<span style="font-size: 32px; ">影</span>	<span style="">yǐng, shadow</span>
+<span style="font-size: 32px; ">再</span>	<span style="">zài, again</span>
+<span style="font-size: 32px; ">见</span>	<span style="">jiàn, see</span>
+<span style="font-size: 32px; ">明天晚上有空儿吗？</span>	<span style="">Will you have leisure time tomorrow evening?</span>
+<span style="font-size: 32px; ">明天晚上我有空儿。</span>	<span style="">I will have leisure time tomorrow evening.</span>
+<span style="font-size: 32px; ">我们去看电影吧。</span>	<span style="">Let's go see a movie.</span>
+<span style="font-size: 32px; ">我们去看几点的？</span>	<span style="">What time's movie are we going to see.</span>
+<span style="font-size: 32px; ">我们去看八点的。</span>	<span style="">We are going to see the movie at eight o'clock.</span>
+<span style="font-size: 32px; ">好啊，七点半，再见。</span>	<span style="">Good, see you at seven thirty.</span>
+
+<span style="font-size: 32px; ">怎</span>	<span style="">zěn, how</span>
+<span style="font-size: 32px; ">超</span>	<span style="">chāo, super; surpass</span>
+<span style="font-size: 32px; ">市</span>	<span style="">shì, market; municipality</span>
+<span style="font-size: 32px; ">坐</span>	<span style="">zuò, sit</span>
+<span style="font-size: 32px; ">公</span>	<span style="">gōng, public</span>
+<span style="font-size: 32px; ">园</span>	<span style="">yuán, garden</span>
+<span style="font-size: 32px; ">骑</span>	<span style="">qí, ride</span>
+<span style="font-size: 32px; ">饭</span>	<span style="">fàn, meal</span>
+<span style="font-size: 32px; ">馆</span>	<span style="">guǎn, hall</span>
+<span style="font-size: 32px; ">走</span>	<span style="">zǒu, walk</span>
+<span style="font-size: 32px; ">路</span>	<span style="">lù, road</span>
+<span style="font-size: 32px; ">机</span>	<span style="">jī, machine</span>
+<span style="font-size: 32px; ">场</span>	<span style="">chǎng, open space</span>
+<span style="font-size: 32px; ">我们去超市。</span>	<span style="">We are going to a supermarket.</span>
+<span style="font-size: 32px; ">我们怎么去？</span>	<span style="">How are we going there?</span>
+<span style="font-size: 32px; ">我们坐车去。</span>	<span style="">We are going there by bus.</span>
+<span style="font-size: 32px; ">w哦们去公园。</span>	<span style="">We are going to a park.</span>
+<span style="font-size: 32px; ">我们骑车去。</span>	<span style="">We are going there by bike.</span>
+<span style="font-size: 32px; ">我们去饭馆儿。</span>	<span style="">We are going to a restaurant.</span>
+<span style="font-size: 32px; ">我们走路去。</span>	<span style="">We are going there on foot.</span>
+<span style="font-size: 32px; ">我们去机场。</span>	<span style="">We are going to the airport.</span>
+<span style="font-size: 32px; ">我们打的去。</span>	<span style="">We are going there by taxi.</span>
 
 <span style="font-size: 32px; "><++></span>	<span style=""><++></span>
 <span style="font-size: 32px; ">#CHINESECHAR</span>	<span style="">#PINYINTRANSL</span><br><span style="">#EXAMPLES</span><br><span style="">#examples</span>
